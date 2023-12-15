@@ -1,7 +1,5 @@
-<h1 align="center"><b>Hi , my name is Filip Čalijs</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Filips+Calijs+is;++;Self-taught+Front-End+Developer,;designer,;website+creator,;;Love+to+learn+new+stuffs..<3"></a>
-</p>
+<h1 align="center"><b>Hi, my name is Filip Čalijs</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 
 <h3> About me </h3>
@@ -28,6 +26,7 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   
+
   
   
 <br>
@@ -48,7 +47,8 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 
 <div align="center">
@@ -61,7 +61,11 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
 </div>
 <div align="center">
 
+
+
 -----
+
+
 ### Social media:
 
   <div id="badges">
@@ -71,66 +75,19 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
     <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
+     <a href="https://vk.com/id500180772" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" width="40" height="40" alt="VK"/>
+    </a>
+    <a href="https://www.instagram.com/filipchalyi/" target="_blank">
+      <img src="https://i0.wp.com/tbrsteakhouse.com/wp-content/uploads/2018/11/instagram-colourful-icon.png?ssl=1" width="40" height="40" alt="VK"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100025029015001&locale=ru_RU" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="40" height="40" alt="VK"/>
+    </a>
 
----
-
-
-
----
-
-### 🛠 Инструменты:
-
-<div>
-
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-
-  
-
-
-  
-</div>
-</div>
----
-
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
-
---- -->
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Filips+Calijs+is;++;Self-taught+Front-End+Developer,;designer,;website+creator,;;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 
 
