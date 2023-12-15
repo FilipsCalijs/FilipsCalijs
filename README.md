@@ -11,7 +11,7 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
-<br><br>
+<br>
 
 
 ### 💻 Technologies:
@@ -25,9 +25,6 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  
-
-  
   
 <br>
 <br>
@@ -85,9 +82,6 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="40" height="40" alt="VK"/>
     </a>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Filips+Calijs+is;++;Self-taught+Front-End+Developer,;designer,;website+creator,;;Love+to+learn+new+stuffs..<3"></a>
-</p>
 
 
 
