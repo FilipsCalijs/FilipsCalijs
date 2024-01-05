@@ -50,11 +50,9 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
 
 <div align="center">
 
-<a href="https://github.com/FilipsCalijs/">
-  <img src="https://github-readme-stats.vercel.app/api?username=FilipsCalijs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FilipsCalijs&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="FilipsCalijs"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FilipsCalijs&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipsCalijs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="center">
 
