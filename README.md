@@ -11,23 +11,20 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
-<br>
 
 
-### 💻 Technologies:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  
-<br>
-<br>
+# 💻 Technologies:
+
+### Design
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr)](https://skillicons.dev) 
+### HTML coding
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,figma)](https://skillicons.dev) 
+### Language
+[![My Skills](https://skillicons.dev/icons?i=go,py,js)](https://skillicons.dev) 
+### Other
+[![My Skills](https://skillicons.dev/icons?i=django,github,react,vscode,wordpress)](https://skillicons.dev) 
+##
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Skills</b>
 <br>
 
