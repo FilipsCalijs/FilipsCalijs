@@ -14,6 +14,7 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
 
 
 
+
 # 💻 Technologies:
 
 ### Design
