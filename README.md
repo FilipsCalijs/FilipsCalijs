@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi, my name is Filip Čalijs</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-just for strike
 
 <h3> About me </h3>
 Hello everyone, I'm a junior developer. My journey in IT began in 2020, then I began to study the Python programming language.During that time I learned a lot (how git/github works, the basics of Django, Flask and much more), I also became acquainted with the basics and principles Go language.
@@ -8,7 +7,9 @@ And recently, I began to delve deeper into Frontend: I began to study JS, TS, th
 
 
 <h3> Current job </h3>
-From July 1, 2024, I began working at Entez company as a junior SEO specialist. Currently I am working at part-time job on a sales website, PBN, link building and much more. I’m also studying at the beginning of the 3rd year at RVT to become a programmer, because in the future I plan to become a full-fledged fullstack/web developer. 
+<b> Junior Seo Specialist</b> 
+
+From July 1, 2024, I began working at <img src="https://media.licdn.com/dms/image/C4E0BAQGXfZL125R0Yg/company-logo_200_200/0/1647868673012/entez_logo?e=2147483647&v=beta&t=T6oTddRfEywgtk0onYr-B3rci7xMyR1PnzNs1QDhFn8" width ="20"> company as a junior SEO specialist. Currently I am working at part-time job on a sales website, PBN, link building and much more. I’m also studying at the beginning of the 3rd year at RVT to become a programmer, because in the future I plan to become a full-fledged fullstack/web developer. 
 
 <p align="center">
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" alt="snake"/>
