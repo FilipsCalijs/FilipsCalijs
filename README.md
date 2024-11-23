@@ -1,4 +1,6 @@
-<h1 align="center"><b>Hi, my name is Filip Čalijs</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+   <b>Hi, my name is Filip Čalijs</b>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3> About me </h3>
 Hello everyone, I'm a junior developer. My journey in IT began in 2020, then I began to study the Python programming language.During that time I learned a lot (how git/github works, the basics of Django, Flask and much more), I also became acquainted with the basics and principles Go language.
@@ -26,8 +28,6 @@ From July 1, 2024, I began working at <img src="https://media.licdn.com/dms/imag
 ##
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Skills</b>
 <br>
-
-
 </div>
 
 - Expertise in HTML, CSS, Python, Go, WordPress, Shopify, and SEO.
@@ -37,10 +37,7 @@ From July 1, 2024, I began working at <img src="https://media.licdn.com/dms/imag
 - Expertise with Photoshop, Illustration, Premier Pro, After Effects and Figma
 <br><br>
 
-
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
 
 <div align="center">
 
@@ -49,8 +46,6 @@ From July 1, 2024, I began working at <img src="https://media.licdn.com/dms/imag
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipsCalijs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="center">
-
-
 
 
 ### Social media:
@@ -71,7 +66,4 @@ From July 1, 2024, I began working at <img src="https://media.licdn.com/dms/imag
     <a href="https://www.facebook.com/profile.php?id=100025029015001&locale=ru_RU" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="40" height="40" alt="VK"/>
     </a>
-
-
-
 
