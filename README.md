@@ -47,7 +47,6 @@ From July 1, 2024, I began working at <img src="https://media.licdn.com/dms/imag
 </div>
 <div align="center">
 
-
 ### Social media:
 
   <div id="badges">
