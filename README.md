@@ -2,7 +2,6 @@
    <b>Hi, my name is Filip Čalijs</b>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
- just for git activity
 <h3> About me </h3>
 Hello everyone, I'm a junior developer. My journey in IT began in 2020, then I began to study the Python programming language.During that time I learned a lot (how git/github works, the basics of Django, Flask and much more), I also became acquainted with the basics and principles Go language.
 And recently, I began to delve deeper into Frontend: I began to study JS, TS, the basics of REACT, and also practiced my knowledge on different platforms, such as Chekio and LeetCode. I also started making my own websites on platforms such as Shopify and Wordpress.
