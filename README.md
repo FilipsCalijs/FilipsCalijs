@@ -64,5 +64,6 @@ From July 1, 2024, I began working at <img src="https://media.licdn.com/dms/imag
     </a>
     <a href="https://www.facebook.com/profile.php?id=100025029015001&locale=ru_RU" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="40" height="40" alt="VK"/>
-    </a>
+    </a> 
+    
 
