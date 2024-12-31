@@ -15,6 +15,7 @@ From July 1, 2024, I began working at <img src="https://media.licdn.com/dms/imag
  <img width="600" src="https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
+
 # 💻 Technologies:
 
 ### Design
